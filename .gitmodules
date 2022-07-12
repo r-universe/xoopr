@@ -18,11 +18,6 @@
 	url = https://github.com/xoopr/param6
 	shallow = true
 	registered = true
-[submodule "R62S3"]
-	path = R62S3
-	url = https://github.com/xoopr/r62s3
-	shallow = true
-	registered = true
 [submodule "set6"]
 	path = set6
 	url = https://github.com/xoopr/set6
