@@ -8,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "param6",
-    "oncran": true
-  },
-  {
     "package": "R62S3",
-    "oncran": true
-  },
-  {
-    "package": "set6",
     "oncran": true
   }
 ]
