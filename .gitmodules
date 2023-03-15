@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "R62S3"]
-	path = R62S3
-	url = https://github.com/xoopr/r62s3
-	shallow = true
-	registered = true
 [submodule "dictionar6"]
 	path = dictionar6
 	url = https://github.com/xoopr/dictionar6
@@ -16,5 +11,10 @@
 [submodule "ooplah"]
 	path = ooplah
 	url = https://github.com/xoopr/ooplah
+	shallow = true
+	registered = true
+[submodule "R62S3"]
+	path = R62S3
+	url = https://github.com/xoopr/r62s3
 	shallow = true
 	registered = true
