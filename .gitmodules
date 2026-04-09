@@ -5,6 +5,3 @@
 [submodule "R62S3"]
 	path = R62S3
 	url = https://github.com/xoopr/r62s3
-[submodule "ooplah"]
-	path = ooplah
-	url = https://github.com/xoopr/ooplah
